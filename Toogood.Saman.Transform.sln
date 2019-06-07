@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toogood.Saman.Transform.Model", "Toogood.Saman.Transform.Model\Toogood.Saman.Transform.Model.csproj", "{B0BAE071-81FF-492D-893E-9354C9B716DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toogood.Saman.Transform.AppService", "Toogood.Saman.Transform.AppService\Toogood.Saman.Transform.AppService.csproj", "{231CCFFD-8C9A-4F1C-9693-041767F812FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toogood.Saman.Transform.TestApp", "Toogood.Saman.Transform.TestApp\Toogood.Saman.Transform.TestApp.csproj", "{DE81A0A2-BD98-4DC7-AA7B-56CD16589B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BAE071-81FF-492D-893E-9354C9B716DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BAE071-81FF-492D-893E-9354C9B716DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BAE071-81FF-492D-893E-9354C9B716DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BAE071-81FF-492D-893E-9354C9B716DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231CCFFD-8C9A-4F1C-9693-041767F812FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231CCFFD-8C9A-4F1C-9693-041767F812FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231CCFFD-8C9A-4F1C-9693-041767F812FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231CCFFD-8C9A-4F1C-9693-041767F812FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE81A0A2-BD98-4DC7-AA7B-56CD16589B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE81A0A2-BD98-4DC7-AA7B-56CD16589B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE81A0A2-BD98-4DC7-AA7B-56CD16589B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE81A0A2-BD98-4DC7-AA7B-56CD16589B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3DD04B-CE63-4FBE-A2EA-7BC0F9B47441}
+	EndGlobalSection
+EndGlobal
